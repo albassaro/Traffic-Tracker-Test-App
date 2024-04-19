@@ -1,0 +1,149 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 30;
+}
+
+.header-container{
+    max-width: 400px;
+    height: 100vh;
+}
+
+.header-offer--button{
+    margin-bottom: 0px;
+}
+
+.nav-pills>li{
+    list-style: none;
+}
+
+.nav-link{
+    padding-left: 10px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-left: 310px;
+    max-width: 1590px;
+}
+
+.form {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+}
+
+.card-info>label{
+    margin-left: 5px;
+}
+
+.card-links__url{
+    border: 1px solid gray;
+    border-radius: 6px; 
+    padding: 7px;    
+}
+
+.card-info__submit{
+    max-width: 300px;
+    border-radius: 8px;
+    background-color: #0d6efd;
+}
+
+.card{
+    box-shadow: 3px 4px 12px -5px rgba(0, 0, 0, 0.5);
+}
+
+.form__card{
+    min-width: 500px;
+    max-width: 700px;
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 9px;
+    padding: 40px;
+}
+
+.offer-form{
+    min-width: 600px;
+    max-width: 700px;
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;  
+}
+
+.card-header--text{
+    word-wrap: break-word;
+    max-width: fit-content;
+}
+
+.card-text{
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(216, 178, 178);
+}
+
+.btn-outline-secondary{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.card-cost
+{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.card-datails{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer{
+    max-width: 1200px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alert-success{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+.btn-link__delete{
+    margin: 0px;
+    padding: 0px 3px 0px 0px;
+    background-color:transparent;
+    border: none;
+    color: blue;
+    font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
